@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:title="毫克"
+        android:id="@+id/menu_5"
+        android:orderInCategory="100"
+        app:showAsAction="never"/>
+    <item
+        android:title="克"
+        android:id="@+id/menu_6"
+        android:orderInCategory="100"
+        app:showAsAction="never"/>
+    <item
+        android:title="千克"
+        android:id="@+id/menu_7"
+        android:orderInCategory="100"
+        app:showAsAction="never"/>
+    <item
+        android:title="吨"
+        android:id="@+id/menu_8"
+        android:orderInCategory="100"
+        app:showAsAction="never"/>
+
+</menu>
